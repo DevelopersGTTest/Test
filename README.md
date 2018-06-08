@@ -1,6 +1,6 @@
-# Objetivos de la repositorio
+# Prueba Numero #1
 
-Este proyecto se encarga de manejar los planes de la liga de la justicia
+Prueba
 
 
 ## Notas
